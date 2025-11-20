@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi , My name is Unnati Khandelwal
+
+I'm a student of VIT BHOPAL
+
+Opting CSE- CYBER SECURITY
 
 <!--
 **unnati-k19/unnati-k19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
