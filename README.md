@@ -6,7 +6,7 @@
 
 ### I'm Currently Learning
 
-* **Languages:** Python
+* **Languages:** Python and c++
 
 ### 📫 Connect with Me
 
